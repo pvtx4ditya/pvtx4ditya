@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm [Aditya]! 👋
 
 ## About Me
 I'm a passionate [kiddo] with a background in [Machine Learning]. I love diving into new technologies and exploring the world of programming.
